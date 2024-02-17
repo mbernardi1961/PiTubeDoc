@@ -11,21 +11,21 @@ Overview of BBC Micro Second Processors - https://sites.google.com/site/jamesski
 
 Current Default Setting (65C102) https://chrisacorns.computinghistory.org.uk/8bit_Upgrades/Acorn_ADC06_65C102CoPro.html
 
-Master 512 (80186) - http://www.cowsarenotpurple.co.uk/bbccomputer/master512/index.html
+Master 512 (80186) - http://www.cowsarenotpurple.co.uk/bbccomputer/master512/index.html - https://mdfs.net/Software/BBCBasic/M512/
 
-PANOS (32016) - https://chrisacorns.computinghistory.org.uk/Panos.html
+PANOS (32016) - https://chrisacorns.computinghistory.org.uk/Panos.html - https://mdfs.net/Software/Tube/32016/
 
-ARM 2 - https://www.sprow.co.uk/bbc/armcopro.htm / https://mdfs.net/Software/Tube/ARM/
+ARM 2 - https://mdfs.net/Software/Tube/ARM/ - https://www.sprow.co.uk/bbc/armcopro.htm 
 
 CP/M (Z80) - https://mdfs.net/Software/Tube/Z80/
 
 PDP-11 - https://mdfs.net/Software/PDP11/
 
-Flex (6809) - https://mdfs.net/Software/Tube/6809/ https://chrisacorns.computinghistory.org.uk/docs/Acorn/Tech/Acorn_FLEXfor6809.pdf
+Flex (6809) - https://mdfs.net/Software/Tube/6809/ - https://chrisacorns.computinghistory.org.uk/docs/Acorn/Tech/Acorn_FLEXfor6809.pdf
 
 ReCo6502 65C816 512K - https://www.zeridajh.org/hardware/reco6502/index.html
 
-And in alph testing<br>
+And in alpha testing<br>
 RISC-V - https://github.com/hoglet67/PiTubeDirect/wiki/RISC-V-Co-Pro-Notes
 
 

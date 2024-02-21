@@ -3,7 +3,7 @@
 There are a number of options once you have an appropriate cable made up.
 
 <b>Kermit</b> - There is a rather old version of BBC Kermit which combined with C-Kermit provides a robust and reliable system.
-Require settings;
+Required settings;
 
 <em>Setup C-Kermit</em> - Direct Serial Port
 

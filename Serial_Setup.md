@@ -2,6 +2,10 @@
 
 There are a number of options once you have an appropriate cable made up. As serial ports on PCs are rare now a USB to serial adaptor can be procured.
 
+<b>XFER</b> - Simple file transfer for BBC Micro
+https://www.g7jjf.com/bbc.htm<br>
+Requies no software to be installed initially on Beeb, just uses two *FX commands, the the basic program is spooled via the serial port. Versions are available for Windows, x86 Linux & Raspberry Pi.
+
 <b>Kermit</b> - There is a rather old version of BBC Kermit which combined with C-Kermit provides a robust and reliable system.
 Required settings;
 
@@ -28,7 +32,3 @@ https://www.retro-kit.co.uk/UPURS/
 <b>SerialFS</b> - ROMless Serial Filing System for the BBC Micro
 https://github.com/gfoot/serialfs<br>
 Only available for Linux.
-
-<b>XFER</b> - Simple file transfer for BBC Micro
-https://www.g7jjf.com/bbc.htm<br>
-Requies no software to be installed initially on Beeb, just uses two *FX commands, the the basic program is spooled via the serial port. Versions are available for Windows, x86 Linux & Raspberry Pi.

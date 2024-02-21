@@ -14,7 +14,7 @@ Required settings;
 
 set modem type none        ; There is no modem<br>
 set line /dev/ttyUSB0        ; Specify device name<br>
-;set carrier-watch off      ; If DTR and CD are not cross-connected
+;set carrier-watch off      ; If DTR and CD are not cross-connected<br>
 set speed 9600            ; Or other desired speed (max speed in BBC Kermit)<br>
 set flow rts/cts           ; If RTS and CTS are cross-connected<br>
 ;set flow xon/xoff          ; If you can't use RTS/CTS<br>

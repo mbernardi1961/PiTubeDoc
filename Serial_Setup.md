@@ -1,11 +1,11 @@
 <b>Using a serial connection</b>
 
-There are a number of options once you have an appropriate cable made up.
+There are a number of options once you have an appropriate cable made up. As serial ports on PCs are rare now a USB to serial adaptor can be procured.
 
 <b>Kermit</b> - There is a rather old version of BBC Kermit which combined with C-Kermit provides a robust and reliable system.
 Required settings;
 
-<em>Setup C-Kermit</em> - Direct Serial Port
+<em>Setup C-Kermit</em> - Using USB Serial Port
 
 set modem type none        ; There is no modem<br>
 set line /dev/ttyUSB0        ; Specify device name<br>

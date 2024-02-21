@@ -1,4 +1,4 @@
-<b>Using a serial connection</b>
+# Using a serial connection
 
 There are a number of options once you have an appropriate cable made up. As serial ports on PCs are rare now a USB to serial adaptor can be procured.
 

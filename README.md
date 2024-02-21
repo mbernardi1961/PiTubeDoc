@@ -11,7 +11,7 @@ Overview of BBC Micro Second Processors - https://sites.google.com/site/jamesski
 
 Current Default Setting (65C102) https://chrisacorns.computinghistory.org.uk/8bit_Upgrades/Acorn_ADC06_65C102CoPro.html
 
-Master 512 (80186) - http://www.cowsarenotpurple.co.uk/bbccomputer/master512/index.html (dead) - https://www.g7jjf.com/512_disc_images.htm -  https://mdfs.net/Software/BBCBasic/M512/
+Master 512 (80186) - http://www.cowsarenotpurple.co.uk/bbccomputer/master512/index.html - https://www.g7jjf.com/512_disc_images.htm -  https://mdfs.net/Software/BBCBasic/M512/
 
 PANOS (32016) - https://chrisacorns.computinghistory.org.uk/Panos.html - https://mdfs.net/Software/Tube/32016/
 

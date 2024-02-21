@@ -1,4 +1,4 @@
-<B>Using a serial connection<B/>
+<b>Using a serial connection</b>
 
 There are a number of options once you have an appropriate cable made up.
 

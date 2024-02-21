@@ -1,4 +1,4 @@
-https://www.g7jjf.com/bbc.htm a serial connection
+a serial connection
 
 There are a number of options once you have an appropriate cable made up.
 

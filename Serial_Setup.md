@@ -5,7 +5,7 @@ There are a number of options once you have an appropriate cable made up.
 <b>Kermit</b> - There is a rather old version of BBC Kermit which combined with C-Kermit provides a robust and reliable system.
 Require settings;
 
-Setup C-Kermit - Direct Serial Port
+<em>Setup C-Kermit</em> - Direct Serial Port
 
 set modem type none        ; There is no modem<br>
 set line /dev/ttyUSB0        ; Specify device name<br>
@@ -17,7 +17,7 @@ set parity even            ; (or "mark" or "space", if necessary)<br>
 ;set stop-bits 2            ; (rarely necessary)<br>
 connect                    ; Enter<br> Connect (terminal) state
 
-BBC Micro Kermit<br><br>
+<em>Setup BBC Micro Kermit</em><br>
 set baud 9600<br>
 set flow cts/rts<br>
 set parity even<br>

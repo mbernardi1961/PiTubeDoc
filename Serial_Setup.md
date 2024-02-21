@@ -1,4 +1,4 @@
-Using a serial connection
+https://www.g7jjf.com/bbc.htm a serial connection
 
 There are a number of options once you have an appropriate cable made up.
 
@@ -7,26 +7,28 @@ Require settings;
 
 Setup C-Kermit - Direct Serial Port
 
-set modem type none        ; There is no modem
-set line /dev/ttyS0        ; Specify device name
+set modem type none        ; There is no modem<br>
+set line /dev/ttyUSB0        ; Specify device name<br>
 ;set carrier-watch off      ; If DTR and CD are not cross-connected
-set speed 9600            ; Or other desired speed
-set flow rts/cts           ; If RTS and CTS are cross-connected
-;set flow xon/xoff          ; If you can't use RTS/CTS
-set parity even            ; (or "mark" or "space", if necessary)
-;set stop-bits 2            ; (rarely necessary)
-connect                    ; Enter Connect (terminal) state
+set speed 9600            ; Or other desired speed (max speed in BBC Kermit)<br>
+set flow rts/cts           ; If RTS and CTS are cross-connected<br>
+;set flow xon/xoff          ; If you can't use RTS/CTS<br>
+set parity even            ; (or "mark" or "space", if necessary)<br>
+;set stop-bits 2            ; (rarely necessary)<br>
+connect                    ; Enter<br> Connect (terminal) state
 
-BBC Micro Kermit
-set baud 9600
-set flow cts/rts
-set parity even
+BBC Micro Kermit<br><br>
+set baud 9600<br>
+set flow cts/rts<br>
+set parity even<br>
 
 UPURS - Fast serial transfer utilities for the BBC Micro
 https://www.retro-kit.co.uk/UPURS/
 
 ROMless Serial Filing System for the BBC Micro
-https://github.com/gfoot/serialfs
+https://github.com/gfoot/serialfs<br>
+Only available for Linux.
 
-XFER 
-
+XFER - Simple file transfer for BBC Micro
+https://www.g7jjf.com/bbc.htm<br>
+Requies no software to be installed initially on Beeb, just uses two *FX commands, the the basic program is spooled via the serial port. Versions are available for Windows, x86 Linux & Raspberry Pi.

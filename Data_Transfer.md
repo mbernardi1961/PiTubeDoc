@@ -13,16 +13,16 @@ Serial - Used with a cable to connect to another computer or a modem to allow ac
 
 So how have times changed?
 
-5" floppies are now unobtainable, and while 3" floppies are still found, floppy emulators seem to be most common.
+5" floppies are now unobtainable, and while 3" floppies are still found, floppy emulators seem to be most common, or you can build your own -
 
 GOTEK - connects to floppy drive interface, uses usb storage, available from RetroClinic with appropriate Beeb interface.
 
-Compact Flash Hard Drive - connects to 1MHz bus and acts like a Winchester Disk (I have one installed myself). Supplied as a kit by RetroClinic. Not easy to copy stuff to it, but once on works like magic.
+Compact Flash Hard Drive - connects to 1MHz bus and acts like a Winchester Disk (I have one installed myself). <br>
+Supplied as a kit by RetroClinic. Not easy to copy stuff to it, but once on works like magic.
 
-SD card reader - Multiple types inexpensive, but usually requiring a ROM to be installed.
+SD card reader - Multiple types inexpensive, but usually requiring a ROM to be installed. - https://retro.m1ner.co.uk/mmbeeb-image-files/
 
-MasterSD, Acorn BBC Master SD Card Interface Cartridge
-http://ramtop-retro.uk/mastersd.html
+MasterSD, Acorn BBC Master SD Card Interface Cartridge - http://ramtop-retro.uk/mastersd.html<br>
 This uses the Master ROM cartridge interface to provide a SD Card reader, a MMFS ROM filing system (https://github.com/hoglet67/MMFS), and a spare sideways RAM bank. 
 
 Econet is fairly expensive to set up, though it's cheaper now than originally. An interface has to be added to the Beeb, and a server needs to be setup. originally this was another Beeb, but now a Raspberry Pi can be setup with a special hat and software for a lot less (this is still the most expensive option) and does allow for internet connectivity.

@@ -5,11 +5,11 @@ The BBC Micro has a lot of communicaton ports to provide expandability, and many
 Back in the 1980s storage was very expensive (sharing a Winchester hard drive made Econet economical) so the idea of 1TB storage available to simply plug into your home computer was science fiction.
 
 So originally there were 5 ways to get data onto your Beeb.<br>
-Tape - Historically the original and cheapest method, but very slow and unreliable<br>
-ROM - Fast, but can't write to it, and replacement required dismantling (both issues fixed over time)<br>
-Disk - While initially expensive to buy the floppy disk drives, the 5" disks were fairly inexpensive (but now difficult to get hold of). Winchester drives not included as cannot be used to get data from outside except..<br>
-Econet - Allows sharing of Winchester drives to multiple BBC Micros, so once data copied to (using one of the other methods) can be used by all on the network.<br>
-Serial - Used with a cable to connect to another computer or a modem to allow access to other computers via the phone line.<br>
+<b>Tape</b> - Historically the original and cheapest method, but very slow and unreliable<br>
+<b>ROM</b> - Fast, but can't write to it, and replacement required dismantling (both issues fixed over time)<br>
+<b>Disk</b> - While initially expensive to buy the floppy disk drives, the 5" disks were fairly inexpensive (but now difficult to get hold of). Winchester drives not included as cannot be used to get data from outside except..<br>
+<b>Econet</b> - Allows sharing of Winchester drives to multiple BBC Micros, so once data copied to (using one of the other methods) can be used by all on the network.<br>
+<b>Serial</b> - Used with a cable to connect to another computer or a modem to allow access to other computers via the phone line.<br>
 
 <b>So how have times changed?</b>
 

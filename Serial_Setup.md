@@ -6,7 +6,8 @@ There are a number of options once you have an appropriate cable made up. As ser
 https://www.g7jjf.com/bbc.htm<br>
 Requies no software to be installed initially on Beeb, just uses two *FX commands, the the basic program is spooled via the serial port. Versions are available for Windows, x86 Linux & Raspberry Pi.
 
-<b>Kermit</b> - There is a rather old version of BBC Kermit which combined with C-Kermit provides a robust and reliable system.
+<b>Kermit</b> -  The New Open-Source Kermit Project - https://www.kermitproject.org/ftp/kermit/historic/<br>
+There is a rather old version of BBC Kermit which combined with C-Kermit provides a robust and reliable system.<br>
 Required settings;
 
 <em>Setup C-Kermit</em> - Using USB Serial Port

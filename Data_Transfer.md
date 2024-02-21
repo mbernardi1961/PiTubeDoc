@@ -19,6 +19,8 @@ GOTEK - connects to floppy drive interface, uses usb storage, available from Ret
 
 Compact Flash Hard Drive - connects to 1MHz bus and acts like a Winchester Disk (I have one installed myself). Not easy to copy stuff to it, but once on works like magic.
 
+SD card reader - Multiple types inexpensive
 
+Econet is fairly expensive to set up, though it's cheaper now than originally. An interface has to be added to the Beeb, and a server needs to be setup. originally this was another Beeb, but now a Raspberry Pi can be setup with a special hat and software for a lot less (this is still the most expensive option) and does allow for internet connectivity.
 
-
+Serial - This is the cheapest option, that doesn't require any modification of the Beeb (by instally a new ROM or hardware). An appropriate cable will be needed, and a PC of some sort to act as a host.

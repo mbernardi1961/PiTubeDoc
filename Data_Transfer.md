@@ -17,7 +17,7 @@ Serial - Used with a cable to connect to another computer or a modem to allow ac
 
 <em>GOTEK</em> - connects to floppy drive interface, uses usb storage, available from RetroClinic with appropriate Beeb interface -  or you can build your own
 
-Compact Flash Hard Drive - connects to 1MHz bus and acts like a Winchester Disk (I have one installed myself). <br>
+<em>Compact Flash Hard Drive</em> - connects to 1MHz bus and acts like a Winchester Disk (I have one installed myself). <br>
 Supplied as a kit by RetroClinic. Not easy to copy stuff to it, but once on works like magic.
 
 <em>SD card reader</em> - Multiple types inexpensive, but usually requiring a ROM to be installed. - https://retro.m1ner.co.uk/mmbeeb-image-files/

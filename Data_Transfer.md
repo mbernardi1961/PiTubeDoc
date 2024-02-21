@@ -13,3 +13,12 @@ Serial - Used with a cable to connect to another computer or a modem to allow ac
 
 So how have times changed?
 
+5" floppies are now unobtainable, and while 3" floppies are still found, floppy emulators seem to be most common.
+
+GOTEK - connects to floppy drive interface, uses usb storage, available from RetroClinic with appropriate Beeb interface.
+
+Compact Flash Hard Drive - connects to 1MHz bus and acts like a Winchester Disk (I have one installed myself). Not easy to copy stuff to it, but once on works like magic.
+
+
+
+

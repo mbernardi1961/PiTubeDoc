@@ -1,8 +1,8 @@
-a serial connection
+<B>Using a serial connection<B/>
 
 There are a number of options once you have an appropriate cable made up.
 
-Kermit - There is a rather old version of BBC Kermit which combined with C-Kermit provides a robust and reliable system.
+<b>Kermit</b> - There is a rather old version of BBC Kermit which combined with C-Kermit provides a robust and reliable system.
 Require settings;
 
 Setup C-Kermit - Direct Serial Port
@@ -22,13 +22,13 @@ set baud 9600<br>
 set flow cts/rts<br>
 set parity even<br>
 
-UPURS - Fast serial transfer utilities for the BBC Micro
+<b>UPURS</b> - Fast serial transfer utilities for the BBC Micro
 https://www.retro-kit.co.uk/UPURS/
 
-ROMless Serial Filing System for the BBC Micro
+<b>SerialFS</b> - ROMless Serial Filing System for the BBC Micro
 https://github.com/gfoot/serialfs<br>
 Only available for Linux.
 
-XFER - Simple file transfer for BBC Micro
+<b>XFER</b> - Simple file transfer for BBC Micro
 https://www.g7jjf.com/bbc.htm<br>
 Requies no software to be installed initially on Beeb, just uses two *FX commands, the the basic program is spooled via the serial port. Versions are available for Windows, x86 Linux & Raspberry Pi.

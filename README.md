@@ -5,7 +5,8 @@ So you have just got a PiTubeDirect (https://github.com/hoglet67/PiTubeDirect/wi
 
 First some examples for each CoPro core (somewhat out of date) - https://github.com/hoglet67/PiTubeDirect/wiki/Examples-for-each-CoPro-core
 
-Boot disk images for varaious CoProcessor cores. - http://www.retroclinic.com/docs/CoPro_Bootdisks.zip
+Boot disk images for varaious CoProcessor cores. - http://www.retroclinic.com/docs/CoPro_Bootdisks.zip & https://mdfs.net/Software/Tube/
+
 
 Overview of BBC Micro Second Processors - https://sites.google.com/site/jamesskingdom/Home/computers-exposed/bbc-micro-second-processors
 

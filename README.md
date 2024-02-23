@@ -18,7 +18,7 @@ PANOS (32016) - https://chrisacorns.computinghistory.org.uk/Panos.html - https:/
 
 ARM 2 - https://mdfs.net/Software/Tube/ARM/ - https://www.sprow.co.uk/bbc/armcopro.htm 
 
-CP/M (Z80) - https://mdfs.net/Software/Tube/Z80/
+CP/M (Z80) - https://www.g7jjf.com/acornz80_disc_images.htm -  https://mdfs.net/Software/Tube/Z80/
 
 PDP-11 - https://mdfs.net/Software/PDP11/
 

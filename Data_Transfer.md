@@ -23,8 +23,8 @@ Supplied as a kit by RetroClinic. Not easy to copy stuff to it, but once on work
 <em>SD card reader</em> - Multiple types inexpensive, but usually requiring a ROM to be installed. - https://retro.m1ner.co.uk/mmbeeb-image-files/
 
 <em>MasterSD</em>, Acorn BBC Master SD Card Interface Cartridge - http://ramtop-retro.uk/mastersd.html<br>
-This uses the Master ROM cartridge interface to provide a SD Card reader, a MMFS ROM filing system (https://github.com/hoglet67/MMFS), and a spare sideways RAM bank. 
+This uses the Master ROM cartridge interface to provide a SD Card reader, a MMFS ROM filing system (https://github.com/hoglet67/MMFS), and a spare sideways RAM bank. I have one, very simple to setup and use (if you have a Master).
 
-<em>Econet</em> - Which is fairly expensive to set up, though it's cheaper now than originally. An interface has to be added to the Beeb, and a server needs to be setup. originally this was another Beeb, but now a Raspberry Pi can be setup with a special hat and software for a lot less (this is still the most expensive option) and does allow for internet connectivity.
+<em>Econet</em> - Which is fairly expensive to set up, though it's cheaper now than originally. An interface has to be added to the Beeb, and a server needs to be setup. originally this was another Beeb, but now a Raspberry Pi can be setup with a special hat and software for a lot less (this is still the most expensive option) it does allow for internet connectivity.
 
 <em>Serial</em> - This is the cheapest option, that doesn't require any modification of the Beeb (by installation of a new ROM or hardware). An appropriate cable will be needed, and a PC of some sort to act as a host.

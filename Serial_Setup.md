@@ -27,6 +27,8 @@ set baud 9600<br>
 set flow cts/rts<br>
 set parity even<br>
 
+<b>HostFS</b> - J.G. Harston's imp
+
 <b>UPURS</b> - Fast serial transfer utilities for the BBC Micro
 https://www.retro-kit.co.uk/UPURS/
 

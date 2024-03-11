@@ -28,7 +28,7 @@ set flow cts/rts<br>
 set parity none<br>
 
 <b>HostFS</b> - J.G. Harston's implementation of the Serial Tube protocol  http://mdfs.net/Software/HostFS/<br>
-Delivers access to the PC's Hard Disc Drive via serial connection
+Delivers access to the PC's Hard Disc Drive via a serial connection
 
 <b>UPURS</b> - Fast serial transfer utilities for the BBC Micro, using user port
 https://www.retro-kit.co.uk/UPURS/

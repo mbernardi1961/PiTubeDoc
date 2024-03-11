@@ -27,10 +27,11 @@ set baud 9600<br>
 set flow cts/rts<br>
 set parity even<br>
 
-<b>HostFS</b> - J.G. Harston's imp
+<b>HostFS</b> - J.G. Harston's implementation of the Serial Tube protocol to deliver access to the PC's Hard Disc Drive 
 
 <b>UPURS</b> - Fast serial transfer utilities for the BBC Micro
 https://www.retro-kit.co.uk/UPURS/
+
 
 <b>SerialFS</b> - ROMless Serial Filing System for the BBC Micro
 https://github.com/gfoot/serialfs<br>

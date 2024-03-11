@@ -27,13 +27,13 @@ set baud 9600<br>
 set flow cts/rts<br>
 set parity even<br>
 
-<b>HostFS</b> - J.G. Harston's implementation of the Serial Tube protocol to deliver access to the PC's Hard Disc Drive http://mdfs.net/Software/HostFS/
+<b>HostFS</b> - J.G. Harston's implementation of the Serial Tube protocol  http://mdfs.net/Software/HostFS/<br>
+Delivers access to the PC's Hard Disc Drive via serial connection
 
 <b>UPURS</b> - Fast serial transfer utilities for the BBC Micro, using user port
 https://www.retro-kit.co.uk/UPURS/
 
-
-<b>UPURSFS</b> Addition to the UPURS suite of applications and provides a way to use the UPURS cable with a connected PC as a remote file system 
+<b>UPURSFS</b> Addition to the UPURS suite of applications  https://sweh.spuddy.org/Beeb/UPURSFS/README.txt<br> Provides a way to use the UPURS cable with a connected PC as a remote file system.
 
 <b>SerialFS</b> - ROMless Serial Filing System for the BBC Micro
 https://github.com/gfoot/serialfs<br>

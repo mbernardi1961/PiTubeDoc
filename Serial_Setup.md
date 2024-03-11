@@ -18,14 +18,14 @@ set line /dev/ttyUSB0        ; Specify device name<br>
 set speed 9600            ; Or other desired speed (max speed in BBC Kermit)<br>
 set flow rts/cts           ; If RTS and CTS are cross-connected<br>
 ;set flow xon/xoff          ; If you can't use RTS/CTS<br>
-set parity even            ; (or "mark" or "space", if necessary)<br>
+set parity none            ; (or "mark" or "space", if necessary)<br>
 ;set stop-bits 2            ; (rarely necessary)<br>
 connect                    ; Enter<br> Connect (terminal) state
 
 <em>Setup BBC Micro Kermit</em><br>
 set baud 9600<br>
 set flow cts/rts<br>
-set parity even<br>
+set parity none<br>
 
 <b>HostFS</b> - J.G. Harston's implementation of the Serial Tube protocol  http://mdfs.net/Software/HostFS/<br>
 Delivers access to the PC's Hard Disc Drive via serial connection

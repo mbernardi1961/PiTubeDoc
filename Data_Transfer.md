@@ -27,4 +27,4 @@ This uses the Master ROM cartridge interface to provide a SD Card reader, a MMFS
 
 <em>Econet</em> - Which is fairly expensive to set up, though it's cheaper now than originally. An interface has to be added to the Beeb, and a server needs to be setup. originally this was another Beeb, but now a Raspberry Pi can be setup with a special hat and software for a lot less (this is still the most expensive option) it does allow for internet connectivity.
 
-<em>Serial</em> - This is the cheapest option, that doesn't require any modification of the Beeb (by installation of a new ROM or hardware). An appropriate cable will be needed, and a PC of some sort to act as a host.
+<em>Serial</em> - This is the cheapest option, that doesn't require any modification of the Beeb (by installation of a new ROM or hardware). An appropriate cable will be needed, and a PC of some sort to act as a host. Faster serial connection can be made via the user port.

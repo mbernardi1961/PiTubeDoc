@@ -17,6 +17,9 @@ Master 512 (80186) - http://www.cowsarenotpurple.co.uk/bbccomputer/master512/ind
 PANOS (32016) - https://chrisacorns.computinghistory.org.uk/Panos.html - https://mdfs.net/Software/Tube/32016/
 
 ARM 2 - https://mdfs.net/Software/Tube/ARM/ - https://www.sprow.co.uk/bbc/armcopro.htm 
+<!-- Arthur C compiler will work on ARM2 copro mode if you just set the executables to have load/exec address &8000
+comes with suitable headers and runtime libraries too, just have to patch load/exec address so that the copro loads 
+at the usual place for Arthur/RISC OS absolute executables. -->
 
 CP/M (Z80) - https://www.g7jjf.com/acornz80_disc_images.htm -  https://mdfs.net/Software/Tube/Z80/
 

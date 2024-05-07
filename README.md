@@ -14,7 +14,7 @@ Current Default Setting (65C102) https://chrisacorns.computinghistory.org.uk/8bi
 
 Master 512 (80186) - http://www.cowsarenotpurple.co.uk/bbccomputer/master512/index.html - https://www.g7jjf.com/512_disc_images.htm -  https://mdfs.net/Software/BBCBasic/M512/
 
-PANOS (32016) - https://chrisacorns.computinghistory.org.uk/Panos.html - https://mdfs.net/Software/Tube/32016/
+PANOS (32016) - [https://chrisacorns.computinghistory.org.uk/Panos.html](https://chrisacorns.computinghistory.org.uk/Panos.html?cfch-archive=orig) - https://mdfs.net/Software/Tube/32016/
 
 ARM 2 - https://mdfs.net/Software/Tube/ARM/ - https://www.sprow.co.uk/bbc/armcopro.htm 
 <!-- Arthur C compiler will work on ARM2 copro mode if you just set the executables to have load/exec address &8000

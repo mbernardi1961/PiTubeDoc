@@ -35,7 +35,7 @@ RISC-V - https://github.com/hoglet67/PiTubeDirect/wiki/RISC-V-Co-Pro-Notes
 
 # Full list of Co-Processors available in current (hognose) stable version.
 
-DIP CPU		Speeed		Startup banner
+DIP CPU		Speed		Startup banner
 
 0	65C02		(Fast)		"Acorn TUBE 65C102 Co-Processor"<br>
 1 65C02		3MHz		"Acorn TUBE 6502 64K"<br>
